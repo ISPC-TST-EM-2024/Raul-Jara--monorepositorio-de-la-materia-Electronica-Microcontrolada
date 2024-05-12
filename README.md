@@ -4,7 +4,7 @@ Docente: Gonzalo Cristian Vera
 
 Alumno: Raúl Jara
 Tp1
-Desarrollo del Trabajo Práctico 2
+Desarrollo del Trabajo Práctico 1
 
 1.	Diseño y simulación un circuito eléctrico básico con una fuente de tensión, resistencia
 y un LED.
