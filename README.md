@@ -1,7 +1,8 @@
 ![LOGO](https://github.com/ISPC-TST-EM-2024/Raul-Jara--monorepositorio-de-la-materia-Electronica-Microcontrolada/assets/167047352/0233f3c3-2393-4fb5-90ed-387d992de107)
 
 Profesor: Vera Gonzalo
-Alumna: Jara Raul
+
+Alumno: Jara Raul
 
 Presentacion de la estructura del monorepositorio
 
